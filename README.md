@@ -5,7 +5,7 @@ atomの設定
 ### リポジトリに反映させる場合
 下記apmコマンドを実行。  
 `apm list --installed --bare > packages.txt`  
-出力されるpackages.txtを「C:\\Users\\ユーザ名\\.atom」に配置し、pull。
+出力されるpackages.txtを「C:\\Users\\ユーザ名\\.atom」に配置し、push。
 
 ### インストールする場合
 下記apmコマンドを実行。  
