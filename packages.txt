@@ -1,0 +1,7 @@
+file-icons@2.1.15
+japanese-menu@1.13.0
+markdown-scroll-sync@2.1.2
+markdown-writer@2.7.3
+tool-bar@1.1.4
+tool-bar-markdown-writer@0.3.1
+

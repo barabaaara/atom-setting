@@ -1,0 +1,15 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor: {}
+  "exception-reporting":
+    userId: "b822eaef-dc3b-4ab7-8a51-3cd0350f0f57"
+  "tool-bar":
+    position: "Bottom"
+  "tool-bar-markdown-writer":
+    visibility: "showToolbarOnMarkdown"
+  welcome:
+    showOnStartup: false
